@@ -1,7 +1,7 @@
 # shopping_card
 
-![Dash](https://kapwi.ng/c/A5WBxR4e_w)
-
+![Dash](https://cdn.kapwing.com/final_617323708c0d45005d832a0b_871297.gif)
+https://media.giphy.com/media/XdZ7CWtOud6dgsy5k8/giphy.gif
 
 ## Project setup
 ```
