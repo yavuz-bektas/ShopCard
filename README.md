@@ -1,4 +1,4 @@
-# first_homework_shopping_card
+# shopping_card
 
 ## Project setup
 ```
