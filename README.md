@@ -1,6 +1,8 @@
 # shopping_card
 
 ![Dash](https://media.giphy.com/media/XdZ7CWtOud6dgsy5k8/giphy.gif)
+![Dash](https://imgur.com/a/SaYgl05)
+
 
 
 ## Project setup
