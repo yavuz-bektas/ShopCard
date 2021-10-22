@@ -1,5 +1,7 @@
 # shopping_card
 
+![Dash](https://media.giphy.com/media/ENNd6EOBduhRqtlYaj/giphy-downsized-large.gif)
+
 ## Project setup
 ```
 npm install
