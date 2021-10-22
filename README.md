@@ -1,6 +1,6 @@
 # shopping_card
 
-![Dash](https://media.giphy.com/media/ENNd6EOBduhRqtlYaj/giphy-downsized-large.gif)
+![Dash](https://kapwi.ng/c/A5WBxR4e_w)
 
 
 ## Project setup
